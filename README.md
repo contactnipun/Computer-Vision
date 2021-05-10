@@ -15,7 +15,9 @@ Face detection from training images.
 
 **Tasks**
     1. Importing the dataset.
+    
     2. Creating features (images) and labels (mask) using that data.
+    
     3. Masking detection model:
 
             ● Designing a face mask detection model.
