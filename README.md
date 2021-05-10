@@ -17,13 +17,20 @@ Face detection from training images.
 1. Import the dataset.
 2. Create features (images) and labels (mask) using that data.
 3. Mask detection model:
+  
   ● Design a face mask detection model.
+  
   ● Design your own Dice Coefficient and Loss function.
+  
   ● Train, tune and test the model.
+  
   ● Evaluate the model using testing data.
+
 4. Using a Test imageas an input to the designed model and displaying the output of the image.
 
+
 Acknowledgement for the dataset http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
+
 Mobile Net paper: https://arxiv.org/pdf/1704.04861.pdf
 
 
