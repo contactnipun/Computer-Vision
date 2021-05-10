@@ -14,11 +14,11 @@ The dataset comprises of images and its mask where there is a human face.
 Face detection from training images.
 
 **Tasks**
-    1. Importing the dataset.
+   1. Importing the dataset.
     
-    2. Creating features (images) and labels (mask) using that data.
+   2. Creating features (images) and labels (mask) using that data.
     
-    3. Masking detection model:
+   3. Masking detection model:
 
             ● Designing a face mask detection model.
 
@@ -28,7 +28,7 @@ Face detection from training images.
 
             ● Evaluating the model using testing data.
 
-   4. Using a Test image as an input to the designed model and displaying the output of the image.
+  4. Using a Test image as an input to the designed model and displaying the output of the image.
 
 
 Acknowledgement for the dataset http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
